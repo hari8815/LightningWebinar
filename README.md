@@ -1,8 +1,8 @@
 
 **Prerequisite:-**
    
-   1. Salesforce CLI Latest version [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli/).
-   2. Git [Git include CLI and Bash](https://git-scm.com/downloads).
+   1. Salesforce CLI insatall Latest version  [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli/).
+   2. Git install [Git include CLI and Bash](https://git-scm.com/downloads).
 
 **Deploy to salesforce:-**
 
@@ -10,7 +10,7 @@
 
       ```$ git clone https://github.com/SoftsquareSolutions/LightningWebinar.git```
 
-   2. Extract the zip file and open the `LightningWebinar` folder in the terminal window.
+   2. Extract the zip file and navigate to the `LightningWebinar` folder in the terminal window.
 
    3. Authenticate with salesforce by
 
