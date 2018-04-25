@@ -1,6 +1,6 @@
 1. Download the git project or clone the project in terminal window by
 
-    ```$ git clone https://github.com/UKRanjith22/lightningDX```
+    ```$ git clone https://github.com/SoftsquareSolutions/LightningWebinar.git```
   
 2. Extract the zip file and open the `LightningWebinar` folder in the terminal window.
    
