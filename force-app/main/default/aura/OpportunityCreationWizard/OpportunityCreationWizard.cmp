@@ -1,6 +1,6 @@
 <aura:component controller="OpportunityCreationWizard" implements="force:appHostable">
     <aura:attribute name="formView" type="Map" default="{}" access="public" />
-    <aura:attribute name="screenName" type="String" default="step1"/>
+    <aura:attribute name="screenName" type="String" access="public" default="step1"/>
     
     <aura:handler name="init" value="{!this}" action="{!c.doinit}" />
     

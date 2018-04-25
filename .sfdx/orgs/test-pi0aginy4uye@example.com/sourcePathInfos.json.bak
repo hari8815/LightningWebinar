@@ -2,14 +2,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1524651301000,
             "changeTime": 1524651301000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1524651301000,
             "changeTime": 1524651301000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1524651950000,
-            "changeTime": 1524651950000,
-            "contentHash": "6899b872e57456c81d7a2b00b0b5d5cee2f995d5",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 306,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "51d6b0548fc805eb36198b716cd099b1b23964f9"
         }
     ],
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1524652522000,
             "changeTime": 1524652522000,
             "contentHash": "e0f77cf9e92cc06229db64c31f64e42a686fcb26",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "921a7047c88d4184e410d736f62be91624116e39",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +75,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.auradoc",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.cmp",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 625,
             "modifiedTime": 1524652482000,
             "changeTime": 1524652482000,
             "contentHash": "221428b5780aa51836d6774769fea78215b02e65",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 245,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "0a39c404545a1bed6cb76974303f1c460dcde9db",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +120,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.css",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +135,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.design",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +150,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.svg",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponent.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +165,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponentController.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponentController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 297,
             "modifiedTime": 1524652494000,
             "changeTime": 1524652494000,
             "contentHash": "f23ff405a508cd281d841769a63cd072c3c5396c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +180,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponentHelper.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponentHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +195,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponentRenderer.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/FormComponent/FormComponentRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1524652467000,
             "changeTime": 1524652467000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +210,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "445c7c63d0f16bf4a32adeb05454569807a6c9aa",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +225,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.auradoc",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +240,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.cmp",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1955,
             "modifiedTime": 1524652421000,
             "changeTime": 1524652421000,
             "contentHash": "e056381d18586e7491006058772762c7d6307f5a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +255,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 237,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "5ad108581ac13dbab55eae019ef7b8afc619a905",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +270,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.css",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +285,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.design",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +300,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.svg",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/Modal.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +315,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/ModalController.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/ModalController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 213,
             "modifiedTime": 1524652437000,
             "changeTime": 1524652437000,
             "contentHash": "5213224a49c76b0aef507b2bf466b331e3273565",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +330,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/ModalHelper.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/ModalHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +345,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/ModalRenderer.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/Modal/ModalRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1524652395000,
             "changeTime": 1524652395000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +360,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1524652522000,
             "changeTime": 1524652522000,
             "contentHash": "11c30c2c2894b33978b7410d53ba3879ef725bce",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +375,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.auradoc",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1524652522000,
             "changeTime": 1524652522000,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,44 +390,40 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2069,
-            "modifiedTime": 1524652529000,
-            "changeTime": 1524652529000,
-            "contentHash": "dcb804b3a01d4f975cf3046f322aa200473c74f3",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2011,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "8a32355aa10ff37d714895820f28c87367a91986"
         }
     ],
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 257,
-            "modifiedTime": 1524652522000,
-            "changeTime": 1524652522000,
-            "contentHash": "472be607be5024f03fde07fc0792eea3236ba3d8",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 228,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
         }
     ],
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.css",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 60,
             "modifiedTime": 1524652568000,
             "changeTime": 1524652568000,
             "contentHash": "b20bcfe314d934781dda9764548a2b8d01a809de",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +431,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.design",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1524652522000,
             "changeTime": 1524652522000,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +446,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.svg",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizard.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1524652522000,
             "changeTime": 1524652522000,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +461,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizardController.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizardController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2024,
             "modifiedTime": 1524652542000,
             "changeTime": 1524652542000,
             "contentHash": "a5a556925679b5d88cada04b684429a2f6d7cb86",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +476,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizardHelper.js",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizardHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1907,
             "modifiedTime": 1524652558000,
             "changeTime": 1524652558000,
             "contentHash": "57564828f57df2d3f184ed8152036d850be005c9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,29 +491,27 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizardRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/aura/OpportunityCreationWizard/OpportunityCreationWizardRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1524652522000,
-            "changeTime": 1524652522000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 49,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ],
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1524651942000,
             "changeTime": 1524651942000,
             "contentHash": "c0e6584bd95bc187f02b09e75a8eab198c9809d9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +519,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityCreationWizard.cls",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityCreationWizard.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 624,
             "modifiedTime": 1524651942000,
             "changeTime": 1524651942000,
             "contentHash": "99e4f743b925bb0e1d5b046a61fc677ae9aba040",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +534,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityCreationWizard.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityCreationWizard.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
             "modifiedTime": 1524651942000,
             "changeTime": 1524651942000,
             "contentHash": "72c841671e92e807d5bf841bcd76c9143e8e20e1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +549,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityWizardController.cls",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityWizardController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2400,
             "modifiedTime": 1524651942000,
             "changeTime": 1524651942000,
             "contentHash": "e53f3d21e061c2cfd37770759bf48259f65ad232",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +564,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityWizardController.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/classes/OpportunityWizardController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 205,
             "modifiedTime": 1524651942000,
             "changeTime": 1524651942000,
             "contentHash": "8b5d33d5fc963b87f2b07c4f6d55340fefab4ab3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +579,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1524651959000,
             "changeTime": 1524651959000,
             "contentHash": "b4016d5ec24caf37d20986f611d4473dec91c448",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +594,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep1.page",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep1.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 824,
             "modifiedTime": 1524652000000,
             "changeTime": 1524652000000,
             "contentHash": "01cddce71dffea2771be5888b5df9933e6e87d83",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +609,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep1.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep1.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 212,
             "modifiedTime": 1524651959000,
             "changeTime": 1524651959000,
             "contentHash": "63434d05464fc2eb6857b18924c9a67efc359cc3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +624,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep2.page",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep2.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 925,
             "modifiedTime": 1524652029000,
             "changeTime": 1524652029000,
             "contentHash": "4d7889368094188f3bd563ca02419cc91ae67473",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +639,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep2.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep2.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 212,
             "modifiedTime": 1524651959000,
             "changeTime": 1524651959000,
             "contentHash": "ca5af34e98b6d26e37390bae6e559453c11ad50f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +654,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep3.page",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep3.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 944,
             "modifiedTime": 1524652042000,
             "changeTime": 1524652042000,
             "contentHash": "a59258016201538b52b8d3929d937132270b2110",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +669,14 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep3.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/pages/OpportunityWizardStep3.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 212,
             "modifiedTime": 1524651959000,
             "changeTime": 1524651959000,
             "contentHash": "e9c8cc8e45772cde73957d2653173eebcd8a38d7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,16 +684,198 @@
     [
         "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1524652691000,
             "changeTime": 1524652691000,
             "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/flexipages/Webinar_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/flexipages/Webinar_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "3aa340caf5f5c63eeee8caf7beaaf94e1529ee87"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/flexipages/Opportunity_Wizard_VF_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/flexipages/Opportunity_Wizard_VF_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "ad7791c557b6a09ac3f31a90c24799e88b8e95da"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/tabs/Opportunity_Wizard_VF.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/tabs/Opportunity_Wizard_VF.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 268,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "7cdf40c57c36e953f9fca9bf2eb48d0c47ca1679"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/tabs/Opportunity_Wizard.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/tabs/Opportunity_Wizard.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 283,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "5adb76e633f61b7095eaa8f881a6bcc9f849c415"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/applications/Opportunity_Wizard_VF.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/applications/Opportunity_Wizard_VF.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "664cd4f4ca3c01cf78c3d49f01029be9ec41d372"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/applications/Webinar.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/applications/Webinar.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "3e4257abb991c371015956bc03a3c376ea305fc7"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5568,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "4c8ff0419fd3b8896cdd89b3f636af3e5accaf87"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5568,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "4c8ff0419fd3b8896cdd89b3f636af3e5accaf87"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5906,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "c0c9a7b3b40234b0200fc6f978d0f9207b0e8ffd"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18619,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "a56054fc01df861712f41726760030ba1e0f09b2"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "588c0a1faafed3fd4f912c33b41ed62d7f70df2c"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "953548c7385b8110359de46610a45fde3bd2ac77"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "bc54fe8e425fbccf784c7e1dd05009cf69ba35a2"
+        }
+    ],
+    [
+        "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/Desktop/Projects/LightningDX/LightningWebinar/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1524653944000,
+            "changeTime": 1524653944000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
