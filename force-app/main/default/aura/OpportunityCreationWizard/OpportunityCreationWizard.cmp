@@ -1,0 +1,40 @@
+<aura:component controller="OpportunityCreationWizard" implements="force:appHostable">
+    <aura:attribute name="formView" type="Map" default="{}" access="public" />
+    <aura:attribute name="screenName" type="String" default="step1"/>
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doinit}" />
+    
+  
+    <c:Modal aura:id="oppWizard" closeAction="{!c.closeWizard}" hasCloseIcon="true">
+        <aura:set attribute="header">
+            <div>
+                Customer Information
+            </div>
+        </aura:set>
+        <aura:set attribute="content">
+            <div aura:id="step1" class="{!(v.screenName == 'step1') ? 'slds-show' : 'slds-hide'}">
+                <c:FormComponent formInputConfig="{!v.formView.Account}"/>
+            </div>
+             <div aura:id="step2" class="{!(v.screenName == 'step2') ? 'slds-show' : 'slds-hide'}">
+               <c:FormComponent formInputConfig="{!v.formView.Contact}"/>
+            </div>
+             <div aura:id="step3" class="{!(v.screenName == 'step3') ? 'slds-show' : 'slds-hide'}">
+                <c:FormComponent formInputConfig="{!v.formView.Opportunity}"/>
+            </div>
+        </aura:set>
+        <aura:set attribute="footer">
+           <div class="{!(v.screenName == 'step1') ? 'slds-show' : 'slds-hide'}">
+                <lightning:button name="next" label="Next" onclick="{!c.next}" />
+            </div>
+           <div class="{!(v.screenName == 'step2') ? 'slds-show' : 'slds-hide'}">
+                <lightning:button name="previous" label="Previous" onclick="{!c.previous}" />
+                <lightning:button name="next" label="Next" onclick="{!c.next}" />
+            </div>
+           <div class="{!(v.screenName == 'step3') ? 'slds-show' : 'slds-hide'}">
+                <lightning:button name="previous" label="Previous" onclick="{!c.previous}" />
+                <lightning:button name="save" label="Save" onclick="{!c.save}" />
+            </div>
+        </aura:set>
+    </c:Modal>
+    
+</aura:component>

@@ -1,0 +1,14 @@
+<aura:component access="public">
+    <aura:attribute name="formInputConfig" type="Map" default="{}" access="public" />
+    
+    <lightning:recordEditForm aura:id="recordViewForm" objectApiName="{!v.formInputConfig.sObjectType}" >
+        <div class="slds-box slds-page-header" >
+            <span class=""> {!v.formInputConfig.title} </span>
+        </div>
+         <lightning:messages />
+        <aura:iteration items="{!v.formInputConfig.fields}" var="item">
+        	<lightning:inputField fieldName="{!item.fieldName}" onchange="{!c.update}" /> 
+        </aura:iteration>
+
+    </lightning:recordEditForm>
+</aura:component>

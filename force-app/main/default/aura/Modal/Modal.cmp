@@ -1,0 +1,35 @@
+<aura:component access="public">
+    <aura:attribute name="header" type="Aura.Component[]" access="public" />
+    <aura:attribute name="tagline" type="Aura.Component[]" access="public" description="The optional tagline of the modal. It is displayed under the title in the header block." />
+    <aura:attribute name="content" type="Aura.Component[]" access="public"/>
+    <aura:attribute name="footer" type="Aura.Component[]" access="public" />
+    <aura:attribute name="closeAction" type="Aura.Action" access="public"/>
+    <aura:attribute name="hasCloseIcon" type="Boolean" default="true" access="public" description="Whether the modal can be closed with a top right 'x' icon. True by default." />
+    
+    <aura:method name="openModal" action="{!c.toogleModal}" access="public">
+    </aura:method>
+    <aura:method name="closeModal" action="{!c.toogleModal}" access="public">
+    </aura:method>
+    
+    <div class="slds-modal" style="height:470px;margin-top:130px;" aura:id="modal">
+        <div class="slds-modal__container">
+            <div class="{!'slds-modal__header' + (empty(v.header)?'slds-modal__header--empty':'')}" >
+                <aura:if isTrue="{!v.hasCloseIcon}" >
+                    <lightning:buttonIcon onclick="{!v.closeAction}" iconName="utility:close" alternativeText="Close" class="slds-modal__close" variant="bare-inverse" size="large"/>
+                </aura:if>
+                <h2 class="slds-text-heading--medium">{!v.header}</h2>
+                <aura:if isTrue="{!empty(v.tagline)}">
+                    <p class="slds-m-top--x-small">{!v.tagline}</p>
+                </aura:if>
+            </div>
+            <div class="slds-modal__content slds-p-around--medium">
+                {!v.content}
+            </div>
+            <div class="slds-modal__footer">
+                {!v.footer}
+            </div>
+        </div>
+    </div>
+    <div class="slds-backdrop" aura:id="modal-backdrop"></div> 
+    
+</aura:component>

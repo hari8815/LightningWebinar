@@ -1,0 +1,19 @@
+<apex:page controller="OpportunityWizardController" tabStyle="Opportunity" lightningStylesheets="true">
+
+  <apex:sectionHeader title="New Customer Opportunity" subtitle="Step 2 of 3"/>
+  <apex:form >
+    <apex:pageBlock title="Customer Information" mode="edit">
+      <apex:pageBlockButtons >
+        <apex:commandButton action="{!step1}" value="Previous"/>
+        <apex:commandButton action="{!step3}" value="Next"/>
+      </apex:pageBlockButtons>
+      <apex:pageBlockSection title="Contact Information">
+        <apex:inputField id="firstName" value="{!contact.firstname}"/>
+        <apex:inputField id="lastName" value="{!contact.lastname}"/>
+        <apex:inputField id="birthDate" value="{!contact.birthdate}"/>
+        <apex:inputField id="phone" value="{!contact.phone}"/>
+        <apex:inputField id="email" value="{!contact.email}"/>
+      </apex:pageBlockSection>
+    </apex:pageBlock>
+  </apex:form>
+</apex:page>

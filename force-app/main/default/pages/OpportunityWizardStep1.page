@@ -1,0 +1,18 @@
+<apex:page controller="OpportunityWizardController" tabStyle="Opportunity" lightningStylesheets="true">
+  
+  <apex:sectionHeader title="New Customer Opportunity" subtitle="Step 1 of 3"/>
+    <apex:form >
+      <apex:pageBlock title="Customer Information" mode="edit">
+
+        <apex:pageBlockButtons >
+          <apex:commandButton action="{!step2}" value="Next"/>
+        </apex:pageBlockButtons>
+      <apex:pageBlockSection title="Account Information">
+        <apex:inputField id="accountName" value="{!account.name}"/>
+        <apex:inputField id="accountSite" value="{!account.industry}"/>
+        <apex:inputField id="accountType" value="{!account.type}"/>
+        <apex:inputField id="accountRevenue" value="{!account.AnnualRevenue}"/>
+      </apex:pageBlockSection>
+    </apex:pageBlock>
+  </apex:form>
+</apex:page>
