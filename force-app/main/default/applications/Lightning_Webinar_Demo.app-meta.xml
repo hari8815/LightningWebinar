@@ -5,7 +5,7 @@
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <formFactors>Large</formFactors>
-    <label>Webinar</label>
+    <label>Lightning Webinar Demo</label>
     <navType>Standard</navType>
     <tabs>Opportunity_Wizard</tabs>
     <tabs>Opportunity_Wizard_VF</tabs>
