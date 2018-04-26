@@ -1,13 +1,16 @@
-**Introduction:**
+**<h2> Title: </h2>**
    This project contains demo of multi-step wizard process which allows users to create Account, Contact and Opportunity record developed using both Visualforce page and Lightning Component.
 
-**Prerequisites:**
+
+**<h3> Steps to deploy to Salesforce: </h3>**
+
+**<h4> Prerequisites:</h4> **
    
-   1. Salesforce CLI install latest version  [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli/).
-   2. Install [Git include CLI and Bash](https://git-scm.com/downloads).
+   1. Salesforce CLI install latest version  [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli/)
+   2. Install [Git include CLI and Bash](https://git-scm.com/downloads)
 
-**Steps to deploy to Salesforce:**
-
+   **<h4>Steps:</h4>**
+   
    1. Download the git project or clone the project in terminal window by the below command
 
       ```git clone https://github.com/SoftsquareSolutions/LightningWebinar.git```
