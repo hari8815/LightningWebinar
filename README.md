@@ -8,7 +8,7 @@
 
 **Steps to deploy to Salesforce:**
 
-   1. Download the git project or clone the project in terminal window by
+   1. Download the git project or clone the project in terminal window by the below command
 
       ```git clone https://github.com/SoftsquareSolutions/LightningWebinar.git```
 
@@ -25,17 +25,17 @@
       ```sfdx force:org:create -f config/project-scratch-def.json -s -a devOrg```
 
 
-   5. Push the meta data components,Lightning Components, Visualforce page and it's controller to the scratch org by the following command,
+   5. Push the meta data components,Lightning Components, Visualforce page and it's controller to the scratch org by the following command:
 
       ```sfdx force:source:push```
 
 
-   6. Once you push the meta data components to the scratch org, Open the scratch org by the following command,
+   6. Once you push the meta data components to the scratch org, Open the scratch org by the following command:
 
       ```sfdx force:org:open```
 
 
-   7. In the salesforce org, Click the Apps Icon and find the `Lightning Webinar Demo`, You will see the `Opportunity Wizard - LC `and `Opportunity Wizard - VF` tabs.
+   7. In the Salesforce org, Click the Apps Icon and find the `Lightning Webinar Demo`, You will see the `Opportunity Wizard - LC `and `Opportunity Wizard - VF` tabs.
    
    
    
