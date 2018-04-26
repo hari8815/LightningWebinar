@@ -37,6 +37,5 @@
 
    7. In the salesforce org, Click the Apps Icon and find the `Lightning Webinar Demo`, You will see the `Opportunity Wizard - LC `and `Opportunity Wizard - VF` tabs.
    
-   **Code Explanation:**
    
    
