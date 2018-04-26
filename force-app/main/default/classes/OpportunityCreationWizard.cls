@@ -1,9 +1,9 @@
 public class OpportunityCreationWizard {
 	
     @AuraEnabled
-    public static Id saveRecord(String accountRecord,String contactRecord, String opportunityRecord) {
-        Account acc = (Account) JSON.deserialize(accountRecord, Account.Class);
-        Contact con = (Contact) JSON.deserialize(contactRecord, Contact.Class);
+    public static Id saveRecord(Account accountRecord,Contact contactRecord, Opportunity opportunityRecord) {
+        Account acc = accountRecord;
+        Contact con = contactRecord;
 
         acc.Phone = con.Phone;
         insert acc;
@@ -11,7 +11,7 @@ public class OpportunityCreationWizard {
         con.AccountId = acc.Id;
         insert con;
 
-        Opportunity opp = (Opportunity) JSON.deserialize(opportunityRecord, Opportunity.Class);
+        Opportunity opp = opportunityRecord;
         opp.AccountId = acc.Id;
         insert opp;
         
