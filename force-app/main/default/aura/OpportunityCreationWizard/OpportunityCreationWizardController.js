@@ -27,9 +27,9 @@
         var action = component.get("c.saveRecord");
 
         action.setParams({
-            'accountRecord':JSON.stringify(formView.Account.record),
-            'contactRecord':JSON.stringify(formView.Contact.record),
-            'opportunityRecord':JSON.stringify(formView.Opportunity.record)
+            'accountRecord': formView.Account.record,
+            'contactRecord': formView.Contact.record,
+            'opportunityRecord': formView.Opportunity.record
         });
         
         action.setCallback(this,function(response){
