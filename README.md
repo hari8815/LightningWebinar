@@ -1,4 +1,4 @@
-**<h2> Title: </h2>**
+**<h2> Lightning Design System and Component for Visualforce developers</h2>**
    This project contains demo of multi-step wizard process which allows users to create Account, Contact and Opportunity record developed using both Visualforce page and Lightning Component.
 
 
